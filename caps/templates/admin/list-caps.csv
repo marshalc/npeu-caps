@@ -1,0 +1,3 @@
+Case ID, Reported In, Created By, Created On, Year of Birth, Ethnic Group, Marital Status, Employed
+{% for row in listing %}{{ row.case_id }},{{row.case_reported}},{{ row.created_by }},{{ row.created_on|date:"d-m-Y H:i:s" }},{{ row.year_of_birth }},{{ row.ethnic_group }},{{ row.martial_status_string }}{{ row.employed|yesno:"Yes,No" }}
+{% endfor %}
