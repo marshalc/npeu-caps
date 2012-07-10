@@ -1,0 +1,222 @@
+[
+    {
+        "model":"caps.drug",
+        "pk":1,
+        "fields": {
+            "name":"Acetorphine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":"Primarily used to sedate elephants, giraffes and rhinos."
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":2,
+        "fields": {
+            "name":"Alfentanil",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":3,
+        "fields": {
+            "name":"Allylprodine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":4,
+        "fields": {
+            "name":"Alphacetylmethadol",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":"Synthetic"
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":5,
+        "fields": {
+            "name":"Alphameprodine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":6,
+        "fields": {
+            "name":"Alphamethadol",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":7,
+        "fields": {
+            "name":"Alphaprodine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":8,
+        "fields": {
+            "name":"Anileridine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":9,
+        "fields": {
+            "name":"Benzethidine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":10,
+        "fields": {
+            "name":"Benzylmorphine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":11,
+        "fields": {
+            "name":"Betacetylmethadol",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":12,
+        "fields": {
+            "name":"Betameprodine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":13,
+        "fields": {
+            "name":"Betamethadol",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":14,
+        "fields": {
+            "name":"Betaprodine",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":15,
+        "fields": {
+            "name":"Bezitramide",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":16,
+        "fields": {
+            "name":"Bufotenine",
+            "uk_class":"A",
+            "alternative_names":"Toad venom",
+            "type":"tryptamine",
+            "note":"Found in the psychoactive toads"
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":17,
+        "fields": {
+            "name":"Carfentanil",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":"Used as a tranquilizer for large game (elephants etc.)"
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":18,
+        "fields": {
+            "name":"Clonitazene",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"opioid",
+            "note":""
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":19,
+        "fields": {
+            "name":"Coca leaf",
+            "uk_class":"A",
+            "alternative_names":"",
+            "type":"erythroxylum",
+            "note":"The plant from which cocaine is derived"
+        }
+    },
+    {
+        "model":"caps.drug",
+        "pk":20,
+        "fields": {
+            "name":"Cocaine",
+            "uk_class":"A",
+            "alternative_names":"Coke, Crack",
+            "type":"stimulant",
+            "note":"One of the most widely used illicit drugs in the world"
+        }
+    }
+]

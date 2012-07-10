@@ -1,0 +1,31 @@
+Prototype data collection form for the Cardiac Arrest in Pregnancy Study (CAPS) created as part of a submission
+for interview as a programmer/database manager in the National Perinatal Epidemiology Unit (NPEU).
+
+Notes:
+
+This shortened form does not include the anticipated due date, so we can not add extra functionality to allow data to be
+entered and then have the system contact the creator again two weeks after the expected due date to complete.
+
+Without further consultation with the principle investigator, it is not trivial to decide on how to handle the
+ambiguities created by this supplied form. For example, the instructions ask for the creator to indicate in a later
+section if they do not know any of the answers, however, that section is not part of this task. There are several
+instances where questions are framed and it is unclear as to whether the answer is optional, compulsory, and how or if
+we should record "Unknown" results compared to "Unanswered" data.
+
+
+TODO:
+- screen cast of system in use
+- mobile phone screen cast of system
+- documentation on installation
+- inline help system
+- extend the admin system to have complete form editing capability = DONE
+- user side form data entry
+- user side login
+- csv export of form data
+- pdf print out of form
+- xls export of data
+- on screen summary of form data
+- check code comments and git submission
+- deploy on remote server
+- SQL dump of tables for documentation
+- Add a multi-field for data entry of weight and height in either metric or imperial

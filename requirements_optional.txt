@@ -1,0 +1,6 @@
+django-debug-toolbar==0.9.4
+ipython==0.13
+readline==6.2.2
+virtualenv==1.7.1.2
+virtualenvwrapper==3.2
+wsgiref==0.1.2
