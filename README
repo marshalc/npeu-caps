@@ -23,11 +23,11 @@ TODO:
 - extend the admin system to have complete form editing capability = DONE
 - user side form data entry
 - user side login
-- csv export of form data
+- csv export of form data = Partially complete
 - pdf print out of form
 - xls export of data
 - on screen summary of form data
-- check code comments and git submission
-- deploy on remote server
+- check code comments and git submission = DONE
+- deploy on remote server = DONE
 - SQL dump of tables for documentation
 - Add a multi-field for data entry of weight and height in either metric or imperial
